@@ -1,0 +1,11 @@
+[package]
+name = "jtop"
+version = "0.1.0"
+edition = "2021"
+authors = ["John Watson john@familywatson.co.uk"]
+license = "Apache-2.0"
+description = "A tool to generate top across processes and containers"
+keywords = ["cli", "search", "monitoring"]
+categories = ["command-line-utilities"]
+
+[dependencies]
